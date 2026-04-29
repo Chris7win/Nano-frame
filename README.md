@@ -235,7 +235,5 @@ MIT License — free to use, modify and distribute.
 ---
 
 ## Credits
-
-Built for the **TelePi** microscopy/telescope project using:
 - [picamera2](https://github.com/raspberrypi/picamera2) — Raspberry Pi camera library
 - [Raspberry Pi HQ Camera](https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/) — IMX477 sensor
