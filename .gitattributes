@@ -1,0 +1,14 @@
+# Auto normalize line endings
+* text=auto
+
+# Python
+*.py text eol=lf
+*.sh text eol=lf
+
+# Documentation
+*.md text eol=lf
+README.md merge=union
+
+# Binaries
+*.h264 binary
+*.mp4 binary
